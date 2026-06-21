@@ -1,7 +1,7 @@
 <h2>👋 Hello there!</h2>
 
 <p>
-  Computer Engineering student at <strong>Army Institute of Technology, Pune</strong> — 
+ I am a Computer Engineering student at <strong>Army Institute of Technology, Pune</strong> — 
   second year in, still deciding if I like systems or data more. Currently: both.
 </p>
 
