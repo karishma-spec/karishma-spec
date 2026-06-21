@@ -1,4 +1,4 @@
-<h2>She/Thinking something great</h2>
+<h2>👋 Hello there!</h2>
 
 <p>
   Computer Engineering student at <strong>Army Institute of Technology, Pune</strong> — 
